@@ -17,7 +17,7 @@ public class Atv5 {
 
     public static double raiz2(int a, int b, double delta){
 
-        double raiz =(-b - (Math.sqrt(delta))) / (2 * a);
+        double raiz =(- b - (Math.sqrt(delta))) / (2 * a);
         return raiz;
     }
     public static void main(String[] args) {
