@@ -1,0 +1,4 @@
+interface mover {
+     
+    void mover();
+}
